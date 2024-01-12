@@ -61,7 +61,7 @@ body {
     padding: 0 10%;
   }
   .home-content {
-    max-width: 600px;
+    max-width: 570px;
     color: white;
   }
   .home-content h1 {
@@ -70,6 +70,7 @@ body {
     font-weight: 700;
     line-height: 1.2;
     color: white;
+   
   }
   .home-content h1::before {
     content: '';
